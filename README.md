@@ -1,8 +1,4 @@
-# Assembly_project
-Thanks for the 10 &lt;3
+# Assembly-Counters
 
-Also thanks for the 9 Izampoo
-
-dfhsdfhshgdhsh
-
-ggg
+Simple MIPS assembly program which counts how many positive, negative and zero numbers were given by the user.
+Exits when the user types the number 44.
