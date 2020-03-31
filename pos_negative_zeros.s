@@ -71,4 +71,5 @@ print_endl: li $v0, 4
 endl: .asciiz "\n"
 pos: .asciiz "pos="
 negat: .asciiz "neg="
-zero: .asciiz "zero="  
+zero: .asciiz "zero="
+ggg  
