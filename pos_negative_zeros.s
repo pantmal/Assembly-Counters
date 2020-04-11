@@ -72,4 +72,3 @@ endl: .asciiz "\n"
 pos: .asciiz "pos="
 negat: .asciiz "neg="
 zero: .asciiz "zero="
-ggg  
